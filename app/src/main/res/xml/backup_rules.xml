@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sample backup rules file; uncomment and customize as needed.
+   See https://developer.android.com/guide/topics/data/autobackup
+   for details, and the guide linked below for tips on how to make
+   this XML file more android backup restrictive/inclusive.
+-->
+<full-backup-content>
+</full-backup-content>

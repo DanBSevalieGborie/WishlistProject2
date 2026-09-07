@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_price">Ex: 5.99</string>
+    <string name="hint_url">Ex: https://example.example/my-item-url</string>
+    <string name="submit">SUBMIT</string>
+    <string name="error_name_required">Please enter an item name</string>
+    <string name="error_price_required">Please enter a valid price</string>
+    <string name="error_url_required">Please enter a URL</string>
+    <string name="item_removed">Removed %1$s</string>
+</resources>
