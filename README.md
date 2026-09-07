@@ -1,6 +1,6 @@
 # Wishlist
 
-Submitted by: **Albert King**
+Submitted by: **Dan Sevalie-Gborie**
 
 **Wishlist** is an Android app that helps the user keep track of items they want to buy online. Users can add an item's name, price, and URL to a running list, and the list updates immediately.
 
@@ -50,7 +50,7 @@ Describe any challenges encountered while building the app, e.g.:
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2006] [Dan Sevalie-Gborie]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
