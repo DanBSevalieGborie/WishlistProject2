@@ -30,9 +30,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <!--
-[Record a video/GIF walkthrough of the app and add the link here so it
-animates when this README is viewed, e.g.:
-![Video Walkthrough](https://youtube.com/shorts/7_tLBZev2N4)]
+
+(https://youtube.com/shorts/7_tLBZev2N4)
 -->
 
 Here's a walkthrough of implemented user stories:
