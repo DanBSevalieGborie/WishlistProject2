@@ -4,7 +4,7 @@ Submitted by: **Dan Sevalie-Gborie**
 
 **Wishlist** is an Android app that helps the user keep track of items they want to buy online. Users can add an item's name, price, and URL to a running list, and the list updates immediately.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <!--
-Record a video/GIF walkthrough of the app and add the link here so it
+[Record a video/GIF walkthrough of the app and add the link here so it
 animates when this README is viewed, e.g.:
-![Video Walkthrough](https://i.imgur.com/your-gif-id.gif)
+![Video Walkthrough](https://youtube.com/shorts/7_tLBZev2N4)]
 -->
 
 Here's a walkthrough of implemented user stories:
@@ -50,7 +50,7 @@ Describe any challenges encountered while building the app, e.g.:
 
 ## License
 
-    Copyright [2006] [Dan Sevalie-Gborie]
+    Copyright [2026] [Dan Sevalie-Gborie]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
