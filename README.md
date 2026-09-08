@@ -27,17 +27,16 @@ The following **additional** features are implemented:
 - [x] Inline validation errors on the input fields (name, price, URL) if the user tries to submit incomplete info
 - [x] Tapping Submit clears the input fields and refocuses the Item Name field so multiple items can be added quickly
 
-## Video Walkthrough
 
-<form action="https://youtube.com/shorts/7_tLBZev2N4" method="get" target="_blank">
-<button type="submit">Click Me</button>
-</form>
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://youtube.com/shorts/7_tLBZev2N4" target="_blank" rel="noopener noreferrer">▶️ Watch the video walkthrough</a>
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
+
+
 
 ## Notes
 
