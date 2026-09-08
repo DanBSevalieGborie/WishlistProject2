@@ -29,10 +29,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<!--
-
-(https://youtube.com/shorts/7_tLBZev2N4)
--->
+<form action="https://youtube.com/shorts/7_tLBZev2N4" method="get" target="_blank">
+<button type="submit">Click Me</button>
+</form>
 
 Here's a walkthrough of implemented user stories:
 
